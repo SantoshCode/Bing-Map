@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/bingmaps": "0.0.1",
+    "@types/faker": "^4.1.12",
+    "typescript": "^3.9.2"
+  },
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}
